@@ -20,7 +20,7 @@ jquery css html food delivery site example
 
 ## Live Demo
 
-<!-- Live Demoは[こちらから](https://master.d3phb5yfhxhh0o.amplifyapp.com/) -->
+Live Demoは[こちらから](https://omnifood-4abd8.firebaseapp.com)
 
 ## Project Structure
 ソースの構成は以下となります：
