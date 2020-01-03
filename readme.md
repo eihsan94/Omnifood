@@ -47,7 +47,14 @@ Live Demoは[こちらから](https://omnifood-4abd8.firebaseapp.com)
 - Jquery
 - CSS normalize: resetting css for standardized look 
 - CSS grid 
+- Fluid grid : make all layout to be sized in percentage (need for responsive design)
 
+<pre>
+recipe for responsive web design
+    1. Fluid grid
+    2. Flexible images: flexible size image
+    3. Media queries: allow us to specify different styles with different browser widths
+</pre>
 
 ## Requirements?
 - 特になし
@@ -62,7 +69,7 @@ index.html のファイルをブラウザーにドラッグする
  今のところはテストなし
 
 ## Build Application for Deployment
- 既にスタティックファイルなのでデプロイコマンド不要
+ firebase deploy
 
 ## 7 steps in making the site
 1. Define your project
